@@ -1,0 +1,9 @@
+1. I would prepare a few "manual training data" first. I would take a sample of songs that are considered calm, hopeful, happy, upbeat etc (with
+opinions from music students on which moods are the most prevalent/ main categories of moods)
+2. then i will measure the average danceability, average valence and average energy of these song categories and use it as training data. Using several algorithms like K nearest neighbours, decision
+trees.
+3. measuring the average danceability, average valence and average energy of the sample's top 100 songs I will employ the alogorithm that
+will categorise the sample's listening mood/aura
+
+1. Different genres may have similar danacebility, valence, and energy averages/ it may not be as easily to categorise moods based on these 3 averages only, i would suggest to
+consider other possible measurable data from songs that can help determine the mood or genre of the song, im no music major but maybe beats per minute.
